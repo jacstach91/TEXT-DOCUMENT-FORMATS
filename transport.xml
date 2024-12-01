@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Car" fuel="Petrol">
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <year>2024</year>
+        <seatingCapacity>7</seatingCapacity>
+    </vehicle>
+
+    <vehicle type="Bike" fuel="Electric">
+        <brand>Spark</brand>
+        <model>Ultra-GX </model>
+        <year>2023</year>
+        <range>120 km</range>
+    </vehicle>
+    <vehicle type="Bus" fuel="Diesel">
+        <company>Mercedez</company>
+        <routeNumber>152</routeNumber>
+        <year>2012</year>
+        <seatingCapacity>50</seatingCapacity>
+    </vehicle>
+</transport>
